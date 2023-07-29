@@ -23,13 +23,13 @@
     </thead>
     <tbody>
       <tr>
-        <td>John</td>
-        <td>Doe</td>
-        <td>john@example.com</td>
+        <td>AMEER</td>
+        <td>SALMAN</td>
+        <td>ASEEF@example.com</td>
       </tr>
       <tr>
-        <td>Mary</td>
-        <td>Moe</td>
+        <td>SYED</td>
+        <td>SHAIK</td>
         <td>mary@example.com</td>
       </tr>
       <tr>
