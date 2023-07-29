@@ -16,9 +16,9 @@
   <table class="table table-bordered">
     <thead>
       <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Email</th>
+        <th>AlthafFirstname</th>
+        <th>AlthafLastname</th>
+        <th>AlthafEmail</th>
       </tr>
     </thead>
     <tbody>
